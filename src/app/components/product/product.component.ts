@@ -8,5 +8,5 @@ import { Product } from 'src/app/models/product';
 })
 export class ProductComponent {
  
-  products:Product[]=[];
+  products:Product[]= [];
 }
